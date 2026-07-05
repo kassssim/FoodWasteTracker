@@ -66,7 +66,7 @@ Food & Beverage / Sustainability
 ## Teammates
 
 - Muzh
-- Hakim
+- Hakimkal
 
 ## Hackathon
 
