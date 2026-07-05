@@ -78,7 +78,7 @@ Built for the PromptQuest Hackathon — "Innovate for Business: Build a Solution
 ![Login](screenshots/login.png)
 
 **Log Waste (Staff View)**
-![Log Waste](screenshots/log_waste.png)
+![Log Waste](screenshots/logwaste.png)
 
 **Dashboard (Manager View)**
 ![Dashboard](screenshots/dashboard.png)
