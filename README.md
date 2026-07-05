@@ -75,16 +75,20 @@ Built for the PromptQuest Hackathon — "Innovate for Business: Build a Solution
 ## Screenshots
 
 **Login**
-![Login](screenshots/login.png)
+![Login](screenshots/login.jpg)
+
+**Register**
+![Register](screenshots/register.jpg)
 
 **Log Waste (Staff View)**
-![Log Waste](screenshots/logwaste.png)
+![Log Waste](screenshots/logwaste2.jpg)
 
 **Dashboard (Manager View)**
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 **Reports & Filtering**
-![Reports](screenshots/reports.png)
+![Reports](screenshots/reports.jpg)
+![Reports](screenshots/reports2.jpg)
 
 **Settings — Manage Ingredients**
-![Settings](screenshots/settings.png)
+![Settings](screenshots/settings.jpg)
