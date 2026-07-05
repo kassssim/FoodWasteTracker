@@ -86,9 +86,9 @@ Built for the PromptQuest Hackathon — "Innovate for Business: Build a Solution
 **Dashboard (Manager View)**
 ![Dashboard](screenshots/dashboard.jpg)
 
+**Settings — Manage Ingredients**
+![Settings](screenshots/settings.jpg)
+
 **Reports & Filtering**
 ![Reports](screenshots/reports.jpg)
 ![Reports](screenshots/reports2.jpg)
-
-**Settings — Manage Ingredients**
-![Settings](screenshots/settings.jpg)
