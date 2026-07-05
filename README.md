@@ -71,3 +71,20 @@ Food & Beverage / Sustainability
 ## Hackathon
 
 Built for the PromptQuest Hackathon — "Innovate for Business: Build a Solution Companies Would Buy"
+
+## Screenshots
+
+**Login**
+![Login](screenshots/login.png)
+
+**Log Waste (Staff View)**
+![Log Waste](screenshots/log_waste.png)
+
+**Dashboard (Manager View)**
+![Dashboard](screenshots/dashboard.png)
+
+**Reports & Filtering**
+![Reports](screenshots/reports.png)
+
+**Settings — Manage Ingredients**
+![Settings](screenshots/settings.png)
