@@ -67,6 +67,7 @@ Food & Beverage / Sustainability
 
 - Muzh
 - Hakimkal
+
 ![image](screenshots/selfie.jpg)
 
 ## Hackathon
